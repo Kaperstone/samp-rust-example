@@ -1,0 +1,11 @@
+[package]
+name = "HelloWorld"
+version = "0.0.1"
+authors = ["Kaperstone"]
+
+[lib]
+name = "plugin"
+crate-type = ["dylib"]
+
+[dependencies]
+samp-sdk = "0.8.1"
