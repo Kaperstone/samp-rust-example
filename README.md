@@ -1,0 +1,1 @@
+# samp-rust-example
